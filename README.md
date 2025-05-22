@@ -44,9 +44,6 @@ ner-ipc-scf-asos/
 
 
 
-pytest tests/
-
-
 ## 🔮 Future Development
 
 We aim to extend **SyNERgy** in the following directions:
