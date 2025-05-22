@@ -25,17 +25,6 @@ Traditional NER systems struggle to adapt to the highly dynamic and context-depe
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/ner-ipc-scf-asos.git
-cd ner-ipc-scf-asos
-pip install -r requirements.txt
-
-
-
-python src/main.py
-
-
-
 ner-ipc-scf-asos/
 ├── README.md                 # Project introduction and usage
 ├── LICENSE                   # License file (e.g., MIT)
@@ -58,7 +47,7 @@ ner-ipc-scf-asos/
 pytest tests/
 
 
-### 🔮 Future Development
+## 🔮 Future Development
 
 We aim to extend **SyNERgy** in the following directions:
 
@@ -72,7 +61,7 @@ We welcome contributions and collaborations to bring these goals to life.
 
 ---
 
-### 📄 License
+## 📄 License
 
 This project is licensed under the **MIT License**.
 
@@ -82,7 +71,7 @@ For the full license text, see the [LICENSE](./LICENSE) file in the repository.
 
 ---
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 We gratefully acknowledge the contributions of the following tools and communities:
 
